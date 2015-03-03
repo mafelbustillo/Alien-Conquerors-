@@ -1,7 +1,9 @@
 # Alien-Conquerors-
 Adventure-type Game
 
-Created by:
+Used Software: GameSalad
+
+Team Members:
 
     Bustillo, Maria Ofelia L.
     Espenilla, Janissa
