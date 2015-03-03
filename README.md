@@ -1,5 +1,6 @@
-# Alien-Conquerors-
-Adventure-type Game
+# Alien Conquerors
+
+Adventure Game
 
 Used Software: GameSalad
 
