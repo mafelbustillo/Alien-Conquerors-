@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds>
+    <sound name="laser">
+      <file name="laser.ogg" size="18422" />
+    </sound>
+    <sound name="DefianceNew">
+      <file name="DefianceNew.ogg" size="8290464" />
+    </sound>
+    <sound name="CyaronsGate">
+      <file name="CyaronsGate.ogg" size="4627351" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="paper_ship">
+      <file name="paper_ship.png" size="2712" />
+    </image>
+    <image name="paper_alien">
+      <file name="paper_alien.png" size="3860" />
+    </image>
+    <image name="planet">
+      <file name="planet.png" size="253443" />
+    </image>
+    <image name="ship-paper-64x64">
+      <file name="ship-paper-64x64.png" size="5858" />
+    </image>
+    <image name="ballfading">
+      <file name="ballfading.png" size="5282" />
+    </image>
+    <image name="AlienShip">
+      <file name="AlienShip.png" size="5336" />
+    </image>
+    <image name="StarField_Alpha">
+      <file name="StarField_Alpha.png" size="5941" />
+    </image>
+    <image name="anigif">
+      <file name="anigif.png" size="59638" />
+    </image>
+    <image name="stars1">
+      <file name="stars1.png" size="63939" />
+    </image>
+    <image name="heart">
+      <file name="heart.png" size="13058" />
+    </image>
+    <image name="gameover">
+      <file name="gameover.png" size="42474" />
+    </image>
+    <image name="alien2">
+      <file name="alien2.png" size="35627" />
+    </image>
+    <image name="alien5">
+      <file name="alien5.png" size="128165" />
+    </image>
+    <image name="alien6">
+      <file name="alien6.png" size="188426" />
+    </image>
+    <image name="red planet">
+      <file name="red planet.png" size="1270653" />
+    </image>
+    <image name="titleeee">
+      <file name="titleeee.png" size="35034" />
+    </image>
+    <image name="start">
+      <file name="start.png" size="16602" />
+    </image>
+    <image name="instructions">
+      <file name="instructions.png" size="15745" />
+    </image>
+    <image name="back">
+      <file name="back.png" size="17105" />
+    </image>
+    <image name="instructions2">
+      <file name="instructions2.png" size="38030" />
+    </image>
+    <image name="start2">
+      <file name="start2.png" size="11004" />
+    </image>
+    <image name="instructions22">
+      <file name="instructions22.png" size="15642" />
+    </image>
+    <image name="cont">
+      <file name="cont.png" size="9965" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
