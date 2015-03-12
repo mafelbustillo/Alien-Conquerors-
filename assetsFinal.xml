@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.5">
+  <sounds>
+    <sound name="laser">
+      <file name="laser.ogg" size="18422" />
+    </sound>
+    <sound name="DefianceNew">
+      <file name="DefianceNew.ogg" size="8290464" />
+    </sound>
+    <sound name="CyaronsGate">
+      <file name="CyaronsGate.ogg" size="4627351" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="paper_ship">
+      <file name="paper_ship.png" size="2712" />
+    </image>
+    <image name="paper_alien">
+      <file name="paper_alien.png" size="3860" />
+    </image>
+    <image name="planet">
+      <file name="planet.png" size="253443" />
+    </image>
+    <image name="ship-paper-64x64">
+      <file name="ship-paper-64x64.png" size="5858" />
+    </image>
+    <image name="ballfading">
+      <file name="ballfading.png" size="5282" />
+    </image>
+    <image name="AlienShip">
+      <file name="AlienShip.png" size="5336" />
+    </image>
+    <image name="StarField_Alpha">
+      <file name="StarField_Alpha.png" size="5941" />
+    </image>
+    <image name="anigif">
+      <file name="anigif.png" size="59638" />
+    </image>
+    <image name="stars1">
+      <file name="stars1.png" size="63939" />
+    </image>
+    <image name="heart">
+      <file name="heart.png" size="13058" />
+    </image>
+    <image name="gameover">
+      <file name="gameover.png" size="42474" />
+    </image>
+    <image name="alien2">
+      <file name="alien2.png" size="35627" />
+    </image>
+    <image name="alien5">
+      <file name="alien5.png" size="128165" />
+    </image>
+    <image name="alien6">
+      <file name="alien6.png" size="188426" />
+    </image>
+    <image name="red planet">
+      <file name="red planet.png" size="1270653" />
+    </image>
+    <image name="start">
+      <file name="start.png" size="16602" />
+    </image>
+    <image name="instructions">
+      <file name="instructions.png" size="15745" />
+    </image>
+    <image name="back">
+      <file name="back.png" size="17105" />
+    </image>
+    <image name="instructions2">
+      <file name="instructions2.png" size="38030" />
+    </image>
+    <image name="start2">
+      <file name="start2.png" size="11004" />
+    </image>
+    <image name="instructions22">
+      <file name="instructions22.png" size="15642" />
+    </image>
+    <image name="cont">
+      <file name="cont.png" size="9965" />
+    </image>
+    <image name="E">
+      <file name="E.png" size="246802" />
+    </image>
+    <image name="D">
+      <file name="D.png" size="246866" />
+    </image>
+    <image name="s1">
+      <file name="s1.png" size="268952" />
+    </image>
+    <image name="s2">
+      <file name="s2.png" size="156483" />
+    </image>
+    <image name="s3">
+      <file name="s3.png" size="207697" />
+    </image>
+    <image name="s4">
+      <file name="s4.png" size="202000" />
+    </image>
+    <image name="s5">
+      <file name="s5.png" size="177044" />
+    </image>
+    <image name="s6">
+      <file name="s6.png" size="215996" />
+    </image>
+    <image name="1398322">
+      <file name="1398322.png" size="3591025" />
+    </image>
+    <image name="tumblr_static_milky-way">
+      <file name="tumblr_static_milky-way.png" size="4023907" />
+    </image>
+    <image name="game over">
+      <file name="game over.png" size="181458" />
+    </image>
+    <image name="quit1">
+      <file name="quit1.png" size="11472" />
+    </image>
+    <image name="quit2">
+      <file name="quit2.png" size="10905" />
+    </image>
+    <image name="try again1">
+      <file name="try again1.png" size="14950" />
+    </image>
+    <image name="try again2">
+      <file name="try again2.png" size="14442" />
+    </image>
+    <image name="Alien-B---Brown">
+      <file name="Alien-B---Brown.png" size="24922" />
+    </image>
+    <image name="galaxies_opposition">
+      <file name="galaxies_opposition.png" size="16807609" />
+    </image>
+    <image name="Galaxy-Red-and-Blue-Sunny-Space">
+      <file name="Galaxy-Red-and-Blue-Sunny-Space.png" size="2662496" />
+    </image>
+    <image name="lunar-space-galaxy-wallpapers">
+      <file name="lunar-space-galaxy-wallpapers.png" size="3095170" />
+    </image>
+    <image name="photo">
+      <file name="photo.png" size="221857" />
+    </image>
+    <image name="menu">
+      <file name="menu.png" size="247291" />
+    </image>
+    <image name="blank">
+      <file name="blank.png" size="629" />
+    </image>
+    <image name="allllien">
+      <file name="allllien.png" size="221857" />
+    </image>
+    <image name="Alien-B---Purple">
+      <file name="Alien-B---Purple.png" size="28699" />
+    </image>
+    <image name="Alienware-logo-drk-grn">
+      <file name="Alienware-logo-drk-grn.png" size="137849" />
+    </image>
+    <image name="Alienware_Flame_Blue_by_compherm">
+      <file name="Alienware_Flame_Blue_by_compherm.png" size="368676" />
+    </image>
+    <image name="Cool_Wallpapers_HD">
+      <file name="Cool_Wallpapers_HD.png" size="2794430" />
+    </image>
+    <image name="galaxy_wallpaper_by_alexandruiuilian-d5apz1p">
+      <file name="galaxy_wallpaper_by_alexandruiuilian-d5apz1p.png" size="3191023" />
+    </image>
+    <image name="images - Copy">
+      <file name="images - Copy.png" size="29887" />
+    </image>
+    <image name="hhh">
+      <file name="hhh.png" size="207957" />
+    </image>
+    <image name="alien glow">
+      <file name="alien glow.png" size="26709" />
+    </image>
+    <image name="spiship">
+      <file name="spiship.png" size="66133" />
+    </image>
+    <image name="inst">
+      <file name="inst.png" size="299579" />
+    </image>
+    <image name="10997170_708810779235888_644281934_n">
+      <file name="10997170_708810779235888_644281934_n.png" size="1766777" />
+    </image>
+    <image name="s7">
+      <file name="s7.png" size="1739023" />
+    </image>
+  </images>
+  <behaviors />
+</assets>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.5" PGFVersion="0.19" title="Alien Conquerors">
+  <tags>template, invaders</tags>
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Left and right keys to move. Spacebar to shoot.</instructions>
+  <resolution>1</resolution>
+  <longDescription>An alien invasion game. Protect your world.</longDescription>
+  <prototypes>
+    <actor id="id293917" />
+    <actor id="id162286" />
+    <actor id="id204155" />
+    <actor id="id894113" />
+    <actor id="id270645" />
+    <actor id="id420973" />
+    <actor id="id126545" />
+    <actor id="id220147" />
+    <actor id="id104216" />
+    <actor id="id210204" />
+    <actor id="id316015" />
+    <actor id="id245139" />
+    <actor id="id137305" />
+    <actor id="id492162" />
+    <actor id="id208556" />
+    <actor id="id622531" />
+    <actor id="id570339" />
+    <actor id="id541691" />
+    <actor id="id712085" />
+    <actor id="id779229" />
+    <actor id="id323042" />
+    <actor id="id252755" />
+    <actor id="id368551" />
+    <actor id="id311147" />
+    <actor id="id585614" />
+    <actor id="id835631" />
+    <actor id="id117098" />
+    <actor id="id607847" />
+    <actor id="id109192" />
+    <actor id="id788192" />
+    <actor id="id997349" />
+    <actor id="id802444" />
+    <actor id="id476001" />
+    <actor id="id577036" />
+    <actor id="id411162" />
+    <actor id="id499336" />
+    <actor id="id200778" />
+    <actor id="id587784" />
+    <actor id="id245764" />
+    <actor id="id339648" />
+    <actor id="id122756" />
+    <actor id="id830428" />
+    <actor id="id375361" />
+    <actor id="id635526" />
+    <actor id="id352811" />
+    <actor id="id753521" />
+    <actor id="id807036" />
+    <actor id="id276587" />
+    <actor id="id416257" />
+    <actor id="id447078" />
+    <actor id="id458651" />
+    <actor id="id973365" />
+    <actor id="id177630" />
+    <actor id="id866749" />
+    <actor id="id830926" />
+    <actor id="id715620" />
+    <actor id="id545115" />
+    <actor id="id995489" />
+    <actor id="id144502" />
+    <actor id="id676753" />
+    <actor id="id631717" />
+    <actor id="id625731" />
+    <actor id="id301344" />
+    <actor id="id875585" />
+    <actor id="id829047" />
+    <actor id="id145995" />
+    <actor id="id935183" />
+    <actor id="id540742" />
+    <actor id="id414579" />
+    <actor id="id325079" />
+    <actor id="id797333" />
+    <actor id="id837505" />
+    <actor id="id633328" />
+    <actor id="id871756" />
+    <actor id="id583188" />
+    <actor id="id830195" />
+    <actor id="id317328" />
+    <actor id="id304222" />
+    <actor id="id907014" />
+    <actor id="id432413" />
+    <actor id="id974675" />
+    <actor id="id416331" />
+    <actor id="id761227" />
+    <actor id="id988174" />
+    <actor id="id430318" />
+    <actor id="id363582" />
+    <actor id="id187761" />
+    <actor id="id237539" />
+    <actor id="id956438" />
+    <actor id="id391206" />
+    <actor id="id501479" />
+    <actor id="id773539" />
+    <actor id="id315238" />
+    <actor id="id545749" />
+    <actor id="id345388" />
+    <actor id="id807881" />
+    <actor id="id614620" />
+  </prototypes>
+  <plugins>
+    <attributes id="kiip">
+      <text id="appKey">dcac1305b83f2ea21e3f4a129782e941</text>
+      <text id="appSecret">OWY2ZDFjNzlmMTYxYTYyMWZiODJmZWJmZmQxYmU3ZTQ=
+</text>
+      <text id="achievementIdentifiers">ACHMNT_0001	ACHMNT_0002</text>
+      <text id="achievementNames">untitled	untitled 2</text>
+      <text id="leaderboardIdentifiers">LDRBRD_0002	LDRBRD_0001	LDRBRD_0003</text>
+      <text id="leaderboardNames">untitled 2	untitled	untitled 3</text>
+    </attributes>
+    <attributes id="playhaven" />
+  </plugins>
+  <scenes>
+    <scene id="id461474" />
+    <scene id="id921540" />
+    <scene id="id383297" />
+    <scene id="id234945" />
+    <scene id="id531712" />
+    <scene id="id484855" />
+    <scene id="id338163" />
+    <scene id="id610077" />
+    <scene id="id269551" />
+    <scene id="id237080" />
+    <scene id="id647149" />
+    <scene id="id751355" />
+    <scene id="id646717" />
+    <scene id="id196043" />
+    <scene id="id915775" />
+    <scene id="id518222" />
+    <scene id="id337539" />
+    <scene id="id476928" />
+    <scene id="id129256" />
+    <scene id="id731297" />
+    <scene id="id233869" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">320</real>
+      <real id="height">480</real>
+    </size>
+    <text id="actorTags">Walls	Aliens	Projectiles</text>
+    <integer id="id935538" name="MoveDirection">1</integer>
+    <integer id="id378563" name="AlienCount">0</integer>
+    <table id="id140942" name="QQ Scoreboard">QQ Scoreboard</table>
+    <table id="id209212" name="QQ Achievements">QQ Achievements</table>
+    <table id="id836497" name="Purchases">Purchases</table>
+    <integer id="id424581" name="score">0</integer>
+    <integer id="id815662" name="lives">3</integer>
+    <integer id="id787744" name="score2">0</integer>
+    <boolean id="id130175" name="music">false</boolean>
+    <integer id="id942989" name="highscore">0</integer>
+  </attributes>
+</game>
